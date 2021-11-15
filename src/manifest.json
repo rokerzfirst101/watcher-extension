@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+
+    "name": "Watcher",
+    "short_name": "Watcher",
+    "version": "0.0.1",
+    "minimum_chrome_version": "26",
+
+    "description": "Will be added soon!"
+}
